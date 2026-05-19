@@ -1,0 +1,8 @@
+build/
+*.o
+*.a
+*.so
+*.xsa
+*.xclbin
+*.log
+__pycache__/
